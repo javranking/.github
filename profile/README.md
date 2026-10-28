@@ -53,7 +53,7 @@ JavRanking 采用**“核心主站 + 开源周边生态”**的矩阵化架构�
 * 🟢 **首选主站**：`https://javranking.cc`
 * 🟢 **常青中转站**：`https://javranking.top`（纯净无敏感内容，专职全路由安全重定向）
 * 🟢 **官方防失联中心**：`https://javranking.github.io/status`（脱离商业域名体系的永久哨所）
-* 🟢 **应急找回邮箱**：发送任意内容至 `contact@javranking.cc`，系统秒级自动回复最新可用网址。
+* 🟢 **应急找回邮箱**：发送任意内容至 `addr@javranking.cc`，系统秒级自动回复最新可用网址。
 
 ---
 
